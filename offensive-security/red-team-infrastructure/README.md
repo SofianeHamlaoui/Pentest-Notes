@@ -1,2 +1,0 @@
-# Red Team Infrastructure
-

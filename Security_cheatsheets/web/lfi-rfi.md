@@ -1,1 +1,0 @@
-- Universal LFI for Windows + PHP (using phpinfo): https://rdot.org/forum/showthread.php?t=1134

@@ -1,1 +1,0 @@
-- How To Make Visual Studio Code Look And Behave Like The PowerShell ISE: https://blog.techsnips.io/how-to-make-visual-studio-code-look-and-behave-like-the-powershell-ise/

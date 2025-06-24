@@ -1,3 +1,0 @@
-- https://www.owasp.org/index.php/OWASP_Hacking_Lab
-- http://www.dvwa.co.uk/
-- http://www.itsecgames.com/

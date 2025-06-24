@@ -1,1 +1,0 @@
-- Phishing Blacklist: https://www.phishing.army/

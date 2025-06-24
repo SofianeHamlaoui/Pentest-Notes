@@ -1,5 +1,0 @@
-- ELF Binary Mangling Part 1 — Concepts: https://medium.com/@dmxinajeansuit/elf-binary-mangling-part-1-concepts-e00cb1352301
-- Elf Binary Mangling Pt. 2: Golfin’: https://medium.com/@dmxinajeansuit/elf-binary-mangling-pt-2-golfin-7e5c82bb482c
-- Elf Binary Mangling Part 3 — Weaponization: https://medium.com/@dmxinajeansuit/elf-binary-mangling-part-3-weaponization-6e11971108b3
-- http://romainthomas.fr/slides/18-06-Recon18-Formats-Instrumentation.pdf
-- Dissecting and exploiting ELF files: https://0x00sec.org/t/dissecting-and-exploiting-elf-files/7267

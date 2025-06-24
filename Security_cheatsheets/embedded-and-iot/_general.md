@@ -1,5 +1,0 @@
-- Project Alias is an open-source parasite to train custom wake-up names for smart home devices while disturbing their built-in microphone: https://github.com/bjoernkarmann/project_alias
-- 35C3 - Modchips of the State:  https://www.youtube.com/watch?v=C7H3V7tkxeA (BNC backdoor designed to be inserted into a _resistor_ sitting between the SPI flash and the BNC chip)
-- Rooting the FireTV Cube and Pendant with FireFU: https://blog.exploitee.rs/2018/rooting-the-firetv-cube-and-pendant-with-firefu/
-- Thunderclap
-  - https://twitter.com/marcan42/status/1100655030711939072

@@ -1,2 +1,0 @@
-# Enumeration and Discovery
-

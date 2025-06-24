@@ -1,2 +1,0 @@
-- Linux hardening checklist: https://github.com/trimstray/linux-hardening-checklist
-- Kernel hardning checklist: https://github.com/a13xp0p0v/kconfig-hardened-check

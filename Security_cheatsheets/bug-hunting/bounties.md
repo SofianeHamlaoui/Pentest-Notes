@@ -1,2 +1,0 @@
-- https://zerodium.com/program.html
-- https://www.secjuice.com/fedbounty-national-bug-bounty-program/

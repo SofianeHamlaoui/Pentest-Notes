@@ -1,1 +1,0 @@
-- ATM LOGIC ATTACKS: SCENARIOS: https://www.ptsecurity.com/upload/corporate/ww-en/analytics/ATM-Vulnerabilities-2018-eng.pdf

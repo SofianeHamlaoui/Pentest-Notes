@@ -1,2 +1,0 @@
-# Credential Access & Dumping
-
